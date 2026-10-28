@@ -29,8 +29,8 @@
 
 <table>
 <tr><td width="22%"><sub><b>2017 – 2018</b></sub></td><td><sub><a href="https://github.com/wonseokjung/ReinforcementLearning_byWonseok">강화학습의 거의 모든 것</a> · <a href="https://github.com/wonseokjung/ai_supermario">강화학습을 이용한 슈퍼마리오 만들기 튜토리얼</a> · <a href="https://github.com/wonseokjung/KIPS_Reinforcement">한국정보처리학회 강화학습 강의</a> · <a href="https://github.com/wonseokjung/moduyeon_supermario">모두의연구소 풀잎스쿨 슈퍼마리오 대회</a> · <a href="https://github.com/wonseokjung/2018_DL_conference_RunningAI-">2018 1st 딥러닝컨퍼런스 RunningA.I 발표</a></sub></td></tr>
-<tr><td><sub><b>University</b></sub></td><td><sub>Professor · 대학 강의 — <a href="https://github.com/wonseokjung/rl-all">강화학습 · 현대 인공지능</a></sub></td></tr>
-<tr><td><sub><b>Company</b></sub></td><td><sub>ConnexionAI CEO · 교육 스타트업에서 인공지능 교육</sub></td></tr>
+<tr><td><sub><b>University</b></sub></td><td><sub>대학 강의 — <a href="https://github.com/wonseokjung/rl-all">강화학습 · 현대 인공지능</a></sub></td></tr>
+<tr><td><sub><b>Company</b></sub></td><td><sub>ConnexionAI CEO</sub></td></tr>
 <tr><td><sub><b>Study</b></sub></td><td><sub>City University of New York — Baruch College, Data Science · Illinois Tech, Master — Data Science</sub></td></tr>
 </table>
 
@@ -44,26 +44,26 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://www.youtube.com/watch?v=XZQ3zn_UDZw"><img src="./assets/work/world_hotel.webp" width="100%" alt="CONNECT AI WORLD — hotel decision twin" /></a><br/>
-<b>CONNECT AI WORLD</b> <sub>· Decision-making AI</sub><br/>
-<sub>회사 두뇌 AI · 세상은 시뮬레이터입니다 — <a href="https://www.youtube.com/watch?v=XZQ3zn_UDZw">2주차</a> · <a href="https://www.youtube.com/watch?v=YoXNiQk6k8I">3주차</a> · <a href="https://www.youtube.com/watch?v=Z8h9gkZeZcA">4주차</a></sub>
+<a href="https://www.youtube.com/watch?v=KjqOOqwyqqc"><img src="./assets/work/link01.webp" width="100%" alt="LINK-01 physical AI robot" /></a><br/>
+<b>LINK-01</b> <sub>· Physical AI</sub><br/>
+<sub>로봇도, 두뇌도, 시뮬레이터도 — <a href="https://www.youtube.com/watch?v=KjqOOqwyqqc">video</a> · <a href="https://www.aicitybuilders.com/robot">강화학습 AI</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://www.aicitybuilders.com/robot"><img src="./assets/work/world_link01.webp" width="100%" alt="LINK-01 robot decision arena" /></a><br/>
-<b>LINK-01</b> <sub>· Robot decision arena</sub><br/>
-<sub>강화학습 AI — 피지컬 AI와 다음 세대 자동화 AI 에이전트의 기반 — <a href="https://www.aicitybuilders.com/robot">course</a></sub>
+<a href="https://www.youtube.com/watch?v=KjqOOqwyqqc"><img src="./assets/work/rl_go.webp" width="100%" alt="Go board: the reward comes hundreds of moves later" /></a><br/>
+<b>REINFORCEMENT LEARNING</b> <sub>· Since 2017</sub><br/>
+<sub>바둑: 보상은 수백 수 뒤에 — <a href="https://www.youtube.com/watch?v=KjqOOqwyqqc">강화학습 인문학 2편</a> · <a href="https://www.aicitybuilders.com/ppo">PPO page</a></sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://www.aicitybuilders.com/ppo"><img src="./assets/work/ppo_roadster.webp" width="100%" alt="PPO — flipped roadster landing" /></a><br/>
-<b>PPO, made visual</b> <sub>· Reinforcement learning</sub><br/>
-<sub>행동을 직접 고르는 두뇌 PPO — 뒤집힌 로드스터, 이번엔 착지한다 — <a href="https://www.aicitybuilders.com/ppo">page</a> · <a href="https://www.youtube.com/watch?v=NmtM16wqVLs">video</a></sub>
+<a href="https://www.youtube.com/watch?v=KjqOOqwyqqc"><img src="./assets/work/papers.webp" width="100%" alt="Paper written with subscribers, submitted to ICAART 2027" /></a><br/>
+<b>RESEARCH</b> <sub>· ICAART 2027</sub><br/>
+<sub>구독자와 함께 쓴 논문 · ICAART 2027 제출 완료 — <a href="https://www.youtube.com/watch?v=KjqOOqwyqqc">video</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://www.aicitybuilders.com/localai"><img src="./assets/work/localai.webp" width="100%" alt="Local AI course" /></a><br/>
+<a href="https://www.youtube.com/watch?v=vopSo8YHUrc"><img src="./assets/work/localai.webp" width="100%" alt="DamaAI local AI pet" /></a><br/>
 <b>LOCAL AI</b> <sub>· 나만의 인공지능</sub><br/>
-<sub>빌려 쓰는 AI 말고 소유하는 AI — <a href="https://www.aicitybuilders.com/localai">나만의 인공지능 · 로컬AI의 정석</a> · <a href="https://www.youtube.com/watch?v=uqoOL4kCxXw">video</a> · <a href="https://github.com/wonseokjung/connect-ai">connect-ai</a></sub>
+<sub>다마고치처럼 나만의 AI 두뇌 키우기 — <a href="https://www.youtube.com/watch?v=vopSo8YHUrc">video</a> · <a href="https://github.com/wonseokjung/tamagotchi-ai">tamagotchi-ai</a> · <a href="https://www.aicitybuilders.com/localai">course</a></sub>
 </td>
 </tr>
 <tr>
@@ -73,33 +73,21 @@
 <sub>바이브코딩으로 AI 3D 영상 만들기 — <a href="https://www.youtube.com/watch?v=d-WRGKllOKU">video</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://www.youtube.com/watch?v=pnQUKnmPkFg"><img src="./assets/work/dubbing.webp" width="100%" alt="AI dubbing in his own voice" /></a><br/>
+<a href="https://www.youtube.com/watch?v=d-WRGKllOKU"><img src="./assets/work/ar.webp" width="100%" alt="The room turns into data around Jay" /></a><br/>
+<b>AR</b> <sub>· Live in both worlds</sub><br/>
+<sub>오픈소스 블렌더 MCP 원리와 활용 — <a href="https://www.youtube.com/watch?v=d-WRGKllOKU">video</a></sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.youtube.com/watch?v=pnQUKnmPkFg"><img src="./assets/work/dubbing.webp" width="100%" alt="AI dubbing, many languages" /></a><br/>
 <b>AI DUBBING</b> <sub>· In your own voice</sub><br/>
 <sub>로컬 AI로 다국어 더빙하는 법 — <a href="https://www.youtube.com/watch?v=pnQUKnmPkFg">video</a></sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
-<a href="https://www.youtube.com/watch?v=4cmQ-YIeb7U"><img src="./assets/work/papers.webp" width="100%" alt="Research papers as motion" /></a><br/>
-<b>RESEARCH</b> <sub>· ICAART 2027 · 112 co-authors</sub><br/>
-<sub>112명이 공동 저자로 이름을 올린 AI 논문, ICAART 2027 제출 — <a href="https://www.youtube.com/watch?v=4cmQ-YIeb7U">video</a> · <a href="https://www.youtube.com/watch?v=OpbRQWA58u8">논문 16편을 게임처럼</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.youtube.com/watch?v=7NBu5IW_2Xw"><img src="./assets/work/motion.webp" width="100%" alt="Motion graphics made with code" /></a><br/>
-<b>MOTION × CODE</b> <sub>· Remotion, three.js</sub><br/>
-<sub>바이브코딩으로 영상 만들기, 예제 44개 코드까지 — <a href="https://www.youtube.com/watch?v=7NBu5IW_2Xw">video</a></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://www.youtube.com/@CONNECT-AI-LAB"><img src="./assets/work/ar.webp" width="100%" alt="AR — live in both worlds" /></a><br/>
-<b>AR</b> <sub>· Live in both worlds</sub><br/>
-<sub>AR · CONNECT AI LAB — <a href="https://www.youtube.com/@CONNECT-AI-LAB">YouTube</a></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.aicitybuilders.com/robot"><img src="./assets/work/book3d.png" width="100%" alt="3D textbook" /></a><br/>
-<b>3D TEXTBOOKS</b> <sub>· Students only</sub><br/>
-<sub>PPO 입체 교과서 · 로컬 AI 11강 교재 — <a href="https://www.aicitybuilders.com/robot">강화학습 AI</a> · <a href="https://www.aicitybuilders.com/localai">나만의 인공지능</a></sub>
+<a href="https://www.youtube.com/watch?v=7NBu5IW_2Xw"><img src="./assets/work/motion.webp" width="100%" alt="Video vibe coding" /></a><br/>
+<b>MOTION × CODE</b> <sub>· Remotion</sub><br/>
+<sub>영상 바이브코딩의 시대 — <a href="https://www.youtube.com/watch?v=7NBu5IW_2Xw">예제 44개 코드까지</a></sub>
 </td>
 </tr>
 </table>
@@ -118,7 +106,7 @@
 | [**aicb-colab**](https://github.com/wonseokjung/aicb-colab) | AI CITY BUILDERS 실습 코랩 노트북 — 코랩에서 바로 열립니다 |
 | [**tamagotchi-ai**](https://github.com/wonseokjung/tamagotchi-ai) | 내 컴퓨터의 AI를 연결하면 깨어나는 교육용 가상 펫 — 로컬 AI·RAG를 놀면서 배웁니다 |
 | [**ai-nightschool**](https://github.com/wonseokjung/ai-nightschool) | 인공지능 1인 기업가를 위한 도서관 — 무료로 배울 수 있는 교재와 프롬프트 |
-| [**connectailab models**](https://huggingface.co/models?search=connectailab) | 허깅페이스 강화학습 탭을 채운 connectailab 모델 |
+| [**connectailab models**](https://huggingface.co/models?search=connectailab) | 허깅페이스에 공개된 connectailab 강화학습 모델 |
 
 <br/>
 
