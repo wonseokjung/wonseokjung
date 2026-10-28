@@ -1,8 +1,14 @@
 <a href="https://www.youtube.com/@CONNECT-AI-LAB"><img src="./assets/hero.webp" width="100%" alt="CONNECT AI LAB — AI MENTOR JAY · AI를 배우는 가장 멋진 방법 · LIVE IN BOTH WORLDS" /></a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/identity_dark.svg" />
+  <img src="./assets/svg/identity_light.svg" width="100%" alt="CEO of AI native companies. Professor." />
+</picture>
+
+<p align="center"><b>커넥젼에이아이 대표 · 서울사이버대학교 대우교수 (공과대학 인공지능 전공)</b></p>
+
 <p align="center">
-  <b>I'm Jay, your AI mentor. Learn AI, build real projects, and put your skills to work.</b><br/>
-  <sub>AI MENTOR JAY · WONSEOK JUNG · CONNECT AI LAB · AI CITY BUILDERS</sub>
+  <b>I'm Jay, your AI mentor. Learn AI, build real projects, and put your skills to work.</b>
 </p>
 
 <p align="center">
@@ -24,14 +30,15 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/timeline_dark.svg" />
-  <img src="./assets/svg/timeline_light.svg" width="100%" alt="Teaching AI since 2017: RL tutorials, talks and classes, university courses, CONNECT AI LAB" />
+  <img src="./assets/svg/timeline_light.svg" width="100%" alt="Building and teaching AI since 2017: ConnexionAI founded, RL research, Modulabs AI College, Optverse, Meta Asia global leader, Wrtn hackathon, Professor at Seoul Cyber University, CONNECT AI LAB" />
 </picture>
 
 <table>
 <tr><td width="22%"><sub><b>2017 – 2018</b></sub></td><td><sub><a href="https://github.com/wonseokjung/ReinforcementLearning_byWonseok">강화학습의 거의 모든 것</a> · <a href="https://github.com/wonseokjung/ai_supermario">강화학습을 이용한 슈퍼마리오 만들기 튜토리얼</a> · <a href="https://github.com/wonseokjung/KIPS_Reinforcement">한국정보처리학회 강화학습 강의</a> · <a href="https://github.com/wonseokjung/moduyeon_supermario">모두의연구소 풀잎스쿨 슈퍼마리오 대회</a> · <a href="https://github.com/wonseokjung/2018_DL_conference_RunningAI-">2018 1st 딥러닝컨퍼런스 RunningA.I 발표</a></sub></td></tr>
-<tr><td><sub><b>University</b></sub></td><td><sub>대학 강의 — <a href="https://github.com/wonseokjung/rl-all">강화학습 · 현대 인공지능</a></sub></td></tr>
-<tr><td><sub><b>Company</b></sub></td><td><sub>ConnexionAI CEO</sub></td></tr>
-<tr><td><sub><b>Study</b></sub></td><td><sub>City University of New York — Baruch College, Data Science · Illinois Tech, Master — Data Science</sub></td></tr>
+<tr><td><sub><b>Professor</b></sub></td><td><sub><b>서울사이버대학교 대우교수 (공과대학 인공지능 전공)</b> — <a href="https://github.com/wonseokjung/rl-all">강화학습 · 현대 인공지능</a></sub></td></tr>
+<tr><td><sub><b>CEO</b></sub></td><td><sub><b>CEO of AI native companies</b> — CONNECT AI LAB · AI CITY BUILDERS · ConnexionAI<br/>커넥젼에이아이 대표 · 2017 ConnexionAI 설립 · 2020 AI 헬스케어 스타트업 옵트버스 설립</sub></td></tr>
+<tr><td><sub><b>Career</b></sub></td><td><sub>2018 PostAI 강화학습 연구 · Best Poster Award 수상 · 2019 모두의연구소 인공지능 선임연구원 · AI COLLEGE 기획/운영 · 2022 메타 아시아 지역 글로벌 리더 선정 · 2023 뤼튼 해커톤 1위</sub></td></tr>
+<tr><td><sub><b>Education</b></sub></td><td><sub>일리노이 공과대학교 (Illinois Institute of Technology) 데이터과학 석사 · 뉴욕시립대 바루크 컬리지 (City University of New York - Baruch College) 데이터과학 학사</sub></td></tr>
 </table>
 
 <br/>

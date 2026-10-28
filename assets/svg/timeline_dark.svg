@@ -1,41 +1,57 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img" aria-label="Teaching AI since 2017">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Building and teaching AI since 2017">
 <g font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
-<text x="40" y="34" font-size="13" letter-spacing="4" fill="#8A8983">TEACHING AI SINCE <tspan fill="#00FF41" font-weight="700">2017</tspan></text>
-<line x1="40" y1="120" x2="860" y2="120" stroke="rgba(243,242,238,0.22)" stroke-width="1.2"/>
-<line x1="40.0" y1="114" x2="40.0" y2="126" stroke="rgba(243,242,238,0.30)"/>
-<text x="40.0" y="148" font-size="12" letter-spacing="2" text-anchor="middle" fill="#8A8983">2017</text>
-<line x1="131.1" y1="114" x2="131.1" y2="126" stroke="rgba(243,242,238,0.30)"/>
-<text x="131.1" y="148" font-size="12" letter-spacing="2" text-anchor="middle" fill="#8A8983">2018</text>
-<line x1="222.2" y1="114" x2="222.2" y2="126" stroke="rgba(243,242,238,0.30)"/>
-<text x="222.2" y="148" font-size="12" letter-spacing="2" text-anchor="middle" fill="#8A8983">2019</text>
-<line x1="313.3" y1="114" x2="313.3" y2="126" stroke="rgba(243,242,238,0.30)"/>
-<text x="313.3" y="148" font-size="12" letter-spacing="2" text-anchor="middle" fill="#8A8983">2020</text>
-<line x1="404.4" y1="114" x2="404.4" y2="126" stroke="rgba(243,242,238,0.30)"/>
-<text x="404.4" y="148" font-size="12" letter-spacing="2" text-anchor="middle" fill="#8A8983">2021</text>
-<line x1="495.6" y1="114" x2="495.6" y2="126" stroke="rgba(243,242,238,0.30)"/>
-<text x="495.6" y="148" font-size="12" letter-spacing="2" text-anchor="middle" fill="#8A8983">2022</text>
-<line x1="586.7" y1="114" x2="586.7" y2="126" stroke="rgba(243,242,238,0.30)"/>
-<text x="586.7" y="148" font-size="12" letter-spacing="2" text-anchor="middle" fill="#8A8983">2023</text>
-<line x1="677.8" y1="114" x2="677.8" y2="126" stroke="rgba(243,242,238,0.30)"/>
-<text x="677.8" y="148" font-size="12" letter-spacing="2" text-anchor="middle" fill="#8A8983">2024</text>
-<line x1="768.9" y1="114" x2="768.9" y2="126" stroke="rgba(243,242,238,0.30)"/>
-<text x="768.9" y="148" font-size="12" letter-spacing="2" text-anchor="middle" fill="#8A8983">2025</text>
-<line x1="860.0" y1="114" x2="860.0" y2="126" stroke="rgba(243,242,238,0.30)"/>
-<text x="860.0" y="148" font-size="12" letter-spacing="2" text-anchor="middle" fill="#8A8983">2026</text>
-<line x1="103.8" y1="120" x2="103.8" y2="78" stroke="#BFEFFF" stroke-width="1" stroke-opacity="0.7"/>
-<circle cx="103.8" cy="120" r="3.5" fill="#BFEFFF"/>
-<text x="103.8" y="56.0" font-size="13" letter-spacing="2.5" text-anchor="middle" fill="#BFEFFF" font-weight="700">RL TUTORIALS</text>
-<text x="103.8" y="73.0" font-size="11" letter-spacing="2" text-anchor="middle" fill="#8A8983" font-weight="400">GITHUB</text>
-<line x1="176.7" y1="120" x2="176.7" y2="162" stroke="#BFEFFF" stroke-width="1" stroke-opacity="0.7"/>
-<circle cx="176.7" cy="120" r="3.5" fill="#BFEFFF"/>
-<text x="176.7" y="178.0" font-size="13" letter-spacing="2.5" text-anchor="middle" fill="#BFEFFF" font-weight="700">TALKS + CLASSES</text>
-<text x="176.7" y="195.0" font-size="11" letter-spacing="2" text-anchor="middle" fill="#8A8983" font-weight="400">KIPS · MODULABS</text>
-<line x1="691.4" y1="120" x2="691.4" y2="78" stroke="#FFB547" stroke-width="1" stroke-opacity="0.7"/>
-<circle cx="691.4" cy="120" r="3.5" fill="#FFB547"/>
-<text x="691.4" y="56.0" font-size="13" letter-spacing="2.5" text-anchor="middle" fill="#FFB547" font-weight="700">UNIVERSITY</text>
-<text x="691.4" y="73.0" font-size="11" letter-spacing="2" text-anchor="middle" fill="#8A8983" font-weight="400">RL · MODERN AI</text>
-<line x1="860.0" y1="120" x2="860.0" y2="162" stroke="#00FF41" stroke-width="1" stroke-opacity="0.7"/>
-<circle cx="860.0" cy="120" r="5" fill="#00FF41"/>
-<text x="866.0" y="178.0" font-size="13" letter-spacing="2.5" text-anchor="end" fill="#00FF41" font-weight="700">CONNECT AI LAB</text>
-<text x="866.0" y="195.0" font-size="11" letter-spacing="2" text-anchor="end" fill="#8A8983" font-weight="400">AI CITY BUILDERS</text>
+<text x="50" y="26" font-size="13" letter-spacing="4" fill="#8A8983">BUILDING + TEACHING AI SINCE <tspan fill="#00FF41" font-weight="700">2017</tspan></text>
+<line x1="50" y1="150" x2="850" y2="150" stroke="rgba(243,242,238,0.22)" stroke-width="1.2"/>
+<line x1="50.0" y1="145" x2="50.0" y2="155" stroke="rgba(243,242,238,0.30)"/>
+<text x="50.0" y="172" font-size="11" letter-spacing="2" text-anchor="middle" fill="#8A8983">2017</text>
+<line x1="138.9" y1="145" x2="138.9" y2="155" stroke="rgba(243,242,238,0.30)"/>
+<text x="138.9" y="172" font-size="11" letter-spacing="2" text-anchor="middle" fill="#8A8983">2018</text>
+<line x1="227.8" y1="145" x2="227.8" y2="155" stroke="rgba(243,242,238,0.30)"/>
+<text x="227.8" y="172" font-size="11" letter-spacing="2" text-anchor="middle" fill="#8A8983">2019</text>
+<line x1="316.7" y1="145" x2="316.7" y2="155" stroke="rgba(243,242,238,0.30)"/>
+<text x="316.7" y="172" font-size="11" letter-spacing="2" text-anchor="middle" fill="#8A8983">2020</text>
+<line x1="405.6" y1="145" x2="405.6" y2="155" stroke="rgba(243,242,238,0.30)"/>
+<text x="405.6" y="172" font-size="11" letter-spacing="2" text-anchor="middle" fill="#8A8983">2021</text>
+<line x1="494.4" y1="145" x2="494.4" y2="155" stroke="rgba(243,242,238,0.30)"/>
+<text x="494.4" y="172" font-size="11" letter-spacing="2" text-anchor="middle" fill="#8A8983">2022</text>
+<line x1="583.3" y1="145" x2="583.3" y2="155" stroke="rgba(243,242,238,0.30)"/>
+<text x="583.3" y="172" font-size="11" letter-spacing="2" text-anchor="middle" fill="#8A8983">2023</text>
+<line x1="672.2" y1="145" x2="672.2" y2="155" stroke="rgba(243,242,238,0.30)"/>
+<text x="672.2" y="172" font-size="11" letter-spacing="2" text-anchor="middle" fill="#8A8983">2024</text>
+<line x1="761.1" y1="145" x2="761.1" y2="155" stroke="rgba(243,242,238,0.30)"/>
+<text x="761.1" y="172" font-size="11" letter-spacing="2" text-anchor="middle" fill="#8A8983">2025</text>
+<line x1="850.0" y1="145" x2="850.0" y2="155" stroke="rgba(243,242,238,0.30)"/>
+<text x="850.0" y="172" font-size="11" letter-spacing="2" text-anchor="middle" fill="#8A8983">2026</text>
+<line x1="50.0" y1="150" x2="50.0" y2="80" stroke="#BFEFFF" stroke-width="1" stroke-opacity="0.6"/>
+<circle cx="50.0" cy="150" r="3.5" fill="#BFEFFF"/>
+<text x="46.0" y="58.0" font-size="12" letter-spacing="2.2" text-anchor="start" fill="#BFEFFF" font-weight="700">CONNEXIONAI</text>
+<text x="46.0" y="74.0" font-size="10.5" letter-spacing="1.6" text-anchor="start" fill="#8A8983" font-weight="400">FOUNDED</text>
+<line x1="138.9" y1="180" x2="138.9" y2="197" stroke="#BFEFFF" stroke-width="1" stroke-opacity="0.6"/>
+<circle cx="138.9" cy="150" r="3.5" fill="#BFEFFF"/>
+<text x="138.9" y="212.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#BFEFFF" font-weight="700">RL RESEARCH</text>
+<text x="138.9" y="228.0" font-size="10.5" letter-spacing="1.6" text-anchor="middle" fill="#8A8983" font-weight="400">BEST POSTER</text>
+<line x1="227.8" y1="150" x2="227.8" y2="122" stroke="#BFEFFF" stroke-width="1" stroke-opacity="0.6"/>
+<circle cx="227.8" cy="150" r="3.5" fill="#BFEFFF"/>
+<text x="227.8" y="100.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#BFEFFF" font-weight="700">MODULABS</text>
+<text x="227.8" y="116.0" font-size="10.5" letter-spacing="1.6" text-anchor="middle" fill="#8A8983" font-weight="400">AI COLLEGE</text>
+<line x1="316.7" y1="180" x2="316.7" y2="239" stroke="#BFEFFF" stroke-width="1" stroke-opacity="0.6"/>
+<circle cx="316.7" cy="150" r="3.5" fill="#BFEFFF"/>
+<text x="316.7" y="254.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#BFEFFF" font-weight="700">OPTVERSE</text>
+<text x="316.7" y="270.0" font-size="10.5" letter-spacing="1.6" text-anchor="middle" fill="#8A8983" font-weight="400">AI HEALTHCARE</text>
+<line x1="494.4" y1="150" x2="494.4" y2="80" stroke="#BFEFFF" stroke-width="1" stroke-opacity="0.6"/>
+<circle cx="494.4" cy="150" r="3.5" fill="#BFEFFF"/>
+<text x="494.4" y="58.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#BFEFFF" font-weight="700">META</text>
+<text x="494.4" y="74.0" font-size="10.5" letter-spacing="1.6" text-anchor="middle" fill="#8A8983" font-weight="400">ASIA GLOBAL LEADER</text>
+<line x1="583.3" y1="180" x2="583.3" y2="197" stroke="#BFEFFF" stroke-width="1" stroke-opacity="0.6"/>
+<circle cx="583.3" cy="150" r="3.5" fill="#BFEFFF"/>
+<text x="583.3" y="212.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#BFEFFF" font-weight="700">WRTN HACKATHON</text>
+<text x="583.3" y="228.0" font-size="10.5" letter-spacing="1.6" text-anchor="middle" fill="#8A8983" font-weight="400">1ST PLACE</text>
+<line x1="850.0" y1="150" x2="850.0" y2="122" stroke="#FFB547" stroke-width="1" stroke-opacity="0.6"/>
+<circle cx="850.0" cy="150" r="3.5" fill="#FFB547"/>
+<text x="855.0" y="100.0" font-size="12" letter-spacing="2.2" text-anchor="end" fill="#FFB547" font-weight="700">PROFESSOR</text>
+<text x="855.0" y="116.0" font-size="10.5" letter-spacing="1.6" text-anchor="end" fill="#8A8983" font-weight="400">SEOUL CYBER UNIV.</text>
+<line x1="850.0" y1="180" x2="850.0" y2="239" stroke="#00FF41" stroke-width="1" stroke-opacity="0.6"/>
+<circle cx="850.0" cy="150" r="5" fill="#00FF41"/>
+<text x="855.0" y="254.0" font-size="12" letter-spacing="2.2" text-anchor="end" fill="#00FF41" font-weight="700">CONNECT AI LAB</text>
+<text x="855.0" y="270.0" font-size="10.5" letter-spacing="1.6" text-anchor="end" fill="#8A8983" font-weight="400">AI CITY BUILDERS</text>
 </g></svg>
