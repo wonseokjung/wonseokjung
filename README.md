@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/boot_dark.svg" />
+  <img src="./assets/svg/boot_light.svg" width="100%" alt="> booting CONNECT AI LAB ... > loading AI MENTOR JAY > CEO of AI native companies > LIVE IN BOTH WORLDS" />
+</picture>
+
 <a href="https://www.youtube.com/@CONNECT-AI-LAB"><img src="./assets/hero.webp" width="100%" alt="CONNECT AI LAB — AI MENTOR JAY · AI를 배우는 가장 멋진 방법 · LIVE IN BOTH WORLDS" /></a>
 
 <picture>
@@ -98,6 +103,13 @@
 </td>
 </tr>
 </table>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/city_dark.svg" />
+  <img src="./assets/svg/city_light.svg" width="100%" alt="BUILD LOG: every commit is a building. GitHub contributions of the last year drawn as a night city" />
+</picture>
 
 <br/>
 
