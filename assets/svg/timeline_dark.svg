@@ -22,6 +22,8 @@
 <text x="761.1" y="172" font-size="11" letter-spacing="2" text-anchor="middle" fill="#8A8983">2025</text>
 <line x1="850.0" y1="145" x2="850.0" y2="155" stroke="rgba(243,242,238,0.30)"/>
 <text x="850.0" y="172" font-size="11" letter-spacing="2" text-anchor="middle" fill="#8A8983">2026</text>
+<line x1="583.3" y1="150" x2="761.1" y2="150" stroke="#FFB547" stroke-width="4" stroke-linecap="round" stroke-opacity="0.85"/>
+<circle cx="583.3" cy="150" r="3.5" fill="#FFB547"/>
 <line x1="50.0" y1="150" x2="50.0" y2="80" stroke="#BFEFFF" stroke-width="1" stroke-opacity="0.6"/>
 <circle cx="50.0" cy="150" r="3.5" fill="#BFEFFF"/>
 <text x="46.0" y="58.0" font-size="12" letter-spacing="2.2" text-anchor="start" fill="#BFEFFF" font-weight="700">CONNEXIONAI</text>
@@ -42,14 +44,13 @@
 <circle cx="494.4" cy="150" r="3.5" fill="#BFEFFF"/>
 <text x="494.4" y="58.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#BFEFFF" font-weight="700">META</text>
 <text x="494.4" y="74.0" font-size="10.5" letter-spacing="1.6" text-anchor="middle" fill="#8A8983" font-weight="400">ASIA GLOBAL LEADER</text>
-<line x1="583.3" y1="180" x2="583.3" y2="197" stroke="#BFEFFF" stroke-width="1" stroke-opacity="0.6"/>
-<circle cx="583.3" cy="150" r="3.5" fill="#BFEFFF"/>
-<text x="583.3" y="212.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#BFEFFF" font-weight="700">WRTN HACKATHON</text>
-<text x="583.3" y="228.0" font-size="10.5" letter-spacing="1.6" text-anchor="middle" fill="#8A8983" font-weight="400">1ST PLACE</text>
-<line x1="850.0" y1="150" x2="850.0" y2="122" stroke="#FFB547" stroke-width="1" stroke-opacity="0.6"/>
-<circle cx="850.0" cy="150" r="3.5" fill="#FFB547"/>
-<text x="855.0" y="100.0" font-size="12" letter-spacing="2.2" text-anchor="end" fill="#FFB547" font-weight="700">PROFESSOR</text>
-<text x="855.0" y="116.0" font-size="10.5" letter-spacing="1.6" text-anchor="end" fill="#8A8983" font-weight="400">SEOUL CYBER UNIV.</text>
+<line x1="672.2" y1="150" x2="672.2" y2="122" stroke="#FFB547" stroke-width="1" stroke-opacity="0.6"/>
+<text x="672.2" y="100.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#FFB547" font-weight="700">AI PROFESSOR</text>
+<text x="672.2" y="116.0" font-size="10.5" letter-spacing="1.6" text-anchor="middle" fill="#8A8983" font-weight="400">SEOUL CYBER UNIV. · 2023–25</text>
+<line x1="761.1" y1="180" x2="761.1" y2="197" stroke="#BFEFFF" stroke-width="1" stroke-opacity="0.6"/>
+<circle cx="761.1" cy="150" r="3.5" fill="#BFEFFF"/>
+<text x="761.1" y="212.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#BFEFFF" font-weight="700">EZERAI</text>
+<text x="761.1" y="228.0" font-size="10.5" letter-spacing="1.6" text-anchor="middle" fill="#8A8983" font-weight="400">FOUNDED</text>
 <line x1="850.0" y1="180" x2="850.0" y2="239" stroke="#00FF41" stroke-width="1" stroke-opacity="0.6"/>
 <circle cx="850.0" cy="150" r="5" fill="#00FF41"/>
 <text x="855.0" y="254.0" font-size="12" letter-spacing="2.2" text-anchor="end" fill="#00FF41" font-weight="700">CONNECT AI LAB</text>
