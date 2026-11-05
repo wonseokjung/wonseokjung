@@ -3,7 +3,7 @@
   <img src="./assets/svg/boot_light.svg" width="100%" alt="> booting CONNECT AI LAB ... > loading AI MENTOR JAY > CEO of AI native companies > LIVE IN BOTH WORLDS" />
 </picture>
 
-<a href="https://www.youtube.com/@CONNECT-AI-LAB"><img src="./assets/hero.webp" width="100%" alt="CONNECT AI LAB — AI MENTOR JAY · AI를 배우는 가장 멋진 방법 · LIVE IN BOTH WORLDS" /></a>
+<a href="https://www.youtube.com/@CONNECT-AI-LAB"><img src="./assets/hero.webp" width="100%" alt="CONNECT AI LAB, AI MENTOR JAY in Bangkok at night: AI를 배우는 가장 멋진 방법, LIVE IN BOTH WORLDS" /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/identity_dark.svg" />
@@ -108,7 +108,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/city_dark.svg" />
-  <img src="./assets/svg/city_light.svg" width="100%" alt="BUILD LOG: every commit is a building. GitHub contributions of the last year drawn as a night city" />
+  <img src="./assets/svg/city_light.svg" width="100%" alt="BUILD LOG: 12 years of building. Every GitHub contribution from 2015 to 2026 drawn as a night city, one row per year" />
 </picture>
 
 <br/>
