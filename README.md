@@ -3,7 +3,7 @@
   <img src="./assets/svg/boot_light.svg" width="100%" alt="> booting CONNECT AI LAB ... > loading AI MENTOR JAY > CEO of AI native companies > LIVE IN BOTH WORLDS" />
 </picture>
 
-<a href="https://www.youtube.com/@CONNECT-AI-LAB"><img src="./assets/hero.webp" width="100%" alt="CONNECT AI LAB, AI MENTOR JAY in Bangkok at night: AI를 배우는 가장 멋진 방법, LIVE IN BOTH WORLDS" /></a>
+<a href="https://www.youtube.com/@CONNECT-AI-LAB"><img src="./assets/hero.webp" width="100%" alt="CONNECT AI LAB, AI MENTOR JAY at work in Bangkok at night: AI를 배우는 가장 멋진 방법, LIVE IN BOTH WORLDS" /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/identity_dark.svg" />
@@ -35,7 +35,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/timeline_dark.svg" />
-  <img src="./assets/svg/timeline_light.svg" width="100%" alt="Building and teaching AI since 2017: ConnexionAI founded, RL research, Modulabs AI College, Optverse, Meta Asia global leader, AI professor at Seoul Cyber University (2023–2025), EZERAI founded (2025), CONNECT AI LAB" />
+  <img src="./assets/svg/timeline_light.svg" width="100%" alt="14 years in AI, since 2012: reading AI papers (2012), ConnexionAI founded, RL research, Modulabs AI College, Optverse, Meta Asia global leader, AI professor at Seoul Cyber University (2023–2025), EZERAI founded (2025), CONNECT AI LAB" />
 </picture>
 
 <table>
