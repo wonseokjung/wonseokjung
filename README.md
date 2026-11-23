@@ -36,8 +36,9 @@
 
 <br/>
 
-<h3 align="center">연구원처럼 연구하고, 경영자처럼 운영하고,<br/>개발자처럼 만들고, 운동선수처럼 끝까지 갑니다.</h3>
-<p align="center"><sub><i>Research like a scientist. Run like a CEO. Build like an engineer. Never quit, like an athlete.</i></sub></p>
+<h3 align="center">AI로 운영되는 회사를 만드는<br/>AI 비즈니스 사업가를 양성합니다.</h3>
+<p align="center">연구원처럼 연구하고, 경영자처럼 운영하고, 개발자처럼 개발하고, 운동선수처럼 포기하지 않는 사람.</p>
+<p align="center"><sub><i>We train AI business founders who build companies run by AI.<br/>Research like a scientist. Run like a CEO. Build like an engineer. Never quit, like an athlete.</i></sub></p>
 
 <br/>
 
