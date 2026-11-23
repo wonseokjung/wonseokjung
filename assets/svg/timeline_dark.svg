@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="14 years in AI, since 2012">
-<g font-family="ui-monospace, 'SF Mono', SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+<g font-family="'Helvetica Neue', Inter, 'Segoe UI', Helvetica, Arial, sans-serif">
 <text x="50" y="26" font-size="13" letter-spacing="4" fill="#8A8983">14 YEARS IN AI <tspan fill="#D6892A">·</tspan> SINCE <tspan fill="#D6892A" font-weight="700">2012</tspan></text>
 <line x1="50" y1="150" x2="850" y2="150" stroke="rgba(243,242,238,0.22)" stroke-width="1.2"/>
 <line x1="50.0" y1="145" x2="50.0" y2="155" stroke="rgba(243,242,238,0.30)"/>
@@ -34,36 +34,36 @@
 <text x="850.0" y="172" font-size="11" letter-spacing="2" text-anchor="middle" fill="#8A8983">2026</text>
 <line x1="678.6" y1="150" x2="792.9" y2="150" stroke="#FFB547" stroke-width="4" stroke-linecap="round" stroke-opacity="0.85"/>
 <circle cx="678.6" cy="150" r="3.5" fill="#FFB547"/>
-<line x1="50.0" y1="150" x2="50.0" y2="80" stroke="#BFEFFF" stroke-width="1" stroke-opacity="0.6"/>
-<circle cx="50.0" cy="150" r="3.5" fill="#BFEFFF"/>
-<text x="46.0" y="58.0" font-size="12" letter-spacing="2.2" text-anchor="start" fill="#BFEFFF" font-weight="700">AI RESEARCH</text>
+<line x1="50.0" y1="150" x2="50.0" y2="80" stroke="#F2B45A" stroke-width="1" stroke-opacity="0.6"/>
+<circle cx="50.0" cy="150" r="3.5" fill="#F2B45A"/>
+<text x="46.0" y="58.0" font-size="12" letter-spacing="2.2" text-anchor="start" fill="#F2B45A" font-weight="700">AI RESEARCH</text>
 <text x="46.0" y="74.0" font-size="10.5" letter-spacing="1.6" text-anchor="start" fill="#8A8983" font-weight="400">READING AI PAPERS</text>
-<line x1="335.7" y1="150" x2="335.7" y2="80" stroke="#BFEFFF" stroke-width="1" stroke-opacity="0.6"/>
-<circle cx="335.7" cy="150" r="3.5" fill="#BFEFFF"/>
-<text x="335.7" y="58.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#BFEFFF" font-weight="700">CONNEXIONAI</text>
+<line x1="335.7" y1="150" x2="335.7" y2="80" stroke="#F2B45A" stroke-width="1" stroke-opacity="0.6"/>
+<circle cx="335.7" cy="150" r="3.5" fill="#F2B45A"/>
+<text x="335.7" y="58.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#F2B45A" font-weight="700">CONNEXIONAI</text>
 <text x="335.7" y="74.0" font-size="10.5" letter-spacing="1.6" text-anchor="middle" fill="#8A8983" font-weight="400">FOUNDED</text>
-<line x1="392.9" y1="180" x2="392.9" y2="197" stroke="#BFEFFF" stroke-width="1" stroke-opacity="0.6"/>
-<circle cx="392.9" cy="150" r="3.5" fill="#BFEFFF"/>
-<text x="392.9" y="212.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#BFEFFF" font-weight="700">RL RESEARCH</text>
+<line x1="392.9" y1="180" x2="392.9" y2="197" stroke="#F2B45A" stroke-width="1" stroke-opacity="0.6"/>
+<circle cx="392.9" cy="150" r="3.5" fill="#F2B45A"/>
+<text x="392.9" y="212.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#F2B45A" font-weight="700">RL RESEARCH</text>
 <text x="392.9" y="228.0" font-size="10.5" letter-spacing="1.6" text-anchor="middle" fill="#8A8983" font-weight="400">BEST POSTER</text>
-<line x1="450.0" y1="150" x2="450.0" y2="122" stroke="#BFEFFF" stroke-width="1" stroke-opacity="0.6"/>
-<circle cx="450.0" cy="150" r="3.5" fill="#BFEFFF"/>
-<text x="450.0" y="100.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#BFEFFF" font-weight="700">MODULABS</text>
+<line x1="450.0" y1="150" x2="450.0" y2="122" stroke="#F2B45A" stroke-width="1" stroke-opacity="0.6"/>
+<circle cx="450.0" cy="150" r="3.5" fill="#F2B45A"/>
+<text x="450.0" y="100.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#F2B45A" font-weight="700">MODULABS</text>
 <text x="450.0" y="116.0" font-size="10.5" letter-spacing="1.6" text-anchor="middle" fill="#8A8983" font-weight="400">AI COLLEGE</text>
-<line x1="507.1" y1="180" x2="507.1" y2="239" stroke="#BFEFFF" stroke-width="1" stroke-opacity="0.6"/>
-<circle cx="507.1" cy="150" r="3.5" fill="#BFEFFF"/>
-<text x="507.1" y="254.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#BFEFFF" font-weight="700">OPTVERSE</text>
+<line x1="507.1" y1="180" x2="507.1" y2="239" stroke="#F2B45A" stroke-width="1" stroke-opacity="0.6"/>
+<circle cx="507.1" cy="150" r="3.5" fill="#F2B45A"/>
+<text x="507.1" y="254.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#F2B45A" font-weight="700">OPTVERSE</text>
 <text x="507.1" y="270.0" font-size="10.5" letter-spacing="1.6" text-anchor="middle" fill="#8A8983" font-weight="400">AI HEALTHCARE</text>
-<line x1="621.4" y1="150" x2="621.4" y2="80" stroke="#BFEFFF" stroke-width="1" stroke-opacity="0.6"/>
-<circle cx="621.4" cy="150" r="3.5" fill="#BFEFFF"/>
-<text x="621.4" y="58.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#BFEFFF" font-weight="700">META</text>
+<line x1="621.4" y1="150" x2="621.4" y2="80" stroke="#F2B45A" stroke-width="1" stroke-opacity="0.6"/>
+<circle cx="621.4" cy="150" r="3.5" fill="#F2B45A"/>
+<text x="621.4" y="58.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#F2B45A" font-weight="700">META</text>
 <text x="621.4" y="74.0" font-size="10.5" letter-spacing="1.6" text-anchor="middle" fill="#8A8983" font-weight="400">ASIA GLOBAL LEADER</text>
 <line x1="735.7" y1="150" x2="735.7" y2="122" stroke="#FFB547" stroke-width="1" stroke-opacity="0.6"/>
 <text x="735.7" y="100.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#FFB547" font-weight="700">AI PROFESSOR</text>
 <text x="735.7" y="116.0" font-size="10.5" letter-spacing="1.6" text-anchor="middle" fill="#8A8983" font-weight="400">SEOUL CYBER UNIV. · 2023–25</text>
-<line x1="792.9" y1="180" x2="792.9" y2="197" stroke="#BFEFFF" stroke-width="1" stroke-opacity="0.6"/>
-<circle cx="792.9" cy="150" r="3.5" fill="#BFEFFF"/>
-<text x="792.9" y="212.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#BFEFFF" font-weight="700">EZERAI</text>
+<line x1="792.9" y1="180" x2="792.9" y2="197" stroke="#F2B45A" stroke-width="1" stroke-opacity="0.6"/>
+<circle cx="792.9" cy="150" r="3.5" fill="#F2B45A"/>
+<text x="792.9" y="212.0" font-size="12" letter-spacing="2.2" text-anchor="middle" fill="#F2B45A" font-weight="700">EZERAI</text>
 <text x="792.9" y="228.0" font-size="10.5" letter-spacing="1.6" text-anchor="middle" fill="#8A8983" font-weight="400">FOUNDED</text>
 <line x1="850.0" y1="180" x2="850.0" y2="239" stroke="#D6892A" stroke-width="1" stroke-opacity="0.6"/>
 <circle cx="850.0" cy="150" r="5" fill="#D6892A"/>
