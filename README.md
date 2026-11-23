@@ -1,9 +1,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/boot_dark.svg" />
-  <img src="./assets/svg/boot_light.svg" width="100%" alt="> booting CONNECT AI LAB ... > loading AI MENTOR JAY > CEO of AI native companies > LIVE IN BOTH WORLDS" />
+  <img src="./assets/svg/boot_light.svg" width="100%" alt="> booting CONNECT AI LAB ... > loading AI MENTOR JAY > CEO of AI native companies > The most beautiful way to learn AI business" />
 </picture>
 
-<a href="https://www.youtube.com/@CONNECT-AI-LAB"><img src="./assets/hero.webp" width="100%" alt="CONNECT AI LAB, AI MENTOR JAY at work in Bangkok at night: AI를 배우는 가장 멋진 방법, LIVE IN BOTH WORLDS" /></a>
+<a href="https://www.youtube.com/@CONNECT-AI-LAB"><img src="./assets/hero_1123.webp" width="100%" alt="CONNECT AI LAB, AI MENTOR JAY: AI 비즈니스를 배우는 가장 멋진 방법, 모두를 위한 AI 교육" /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/identity_dark.svg" />
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@CONNECT-AI-LAB"><img src="https://img.shields.io/badge/YouTube-CONNECT%20AI%20LAB-07080A?style=for-the-badge&logo=youtube&logoColor=white&labelColor=14171C" alt="YouTube" /></a>
-  <a href="https://www.aicitybuilders.com"><img src="https://img.shields.io/badge/AI%20CITY%20BUILDERS-aicitybuilders.com-00FF41?style=for-the-badge&labelColor=07080A" alt="AI CITY BUILDERS" /></a>
+  <a href="https://www.aicitybuilders.com"><img src="https://img.shields.io/badge/AI%20CITY%20BUILDERS-aicitybuilders.com-D6892A?style=for-the-badge&labelColor=07080A" alt="AI CITY BUILDERS" /></a>
   <a href="https://www.instagram.com/aimentorjay"><img src="https://img.shields.io/badge/Instagram-aimentorjay-07080A?style=for-the-badge&logo=instagram&logoColor=white&labelColor=14171C" alt="Instagram" /></a>
   <a href="https://huggingface.co/models?search=connectailab"><img src="https://img.shields.io/badge/Hugging%20Face-connectailab-07080A?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=14171C" alt="Hugging Face" /></a>
 </p>
@@ -147,4 +147,4 @@
 <sub>Free first steps: <a href="https://www.aicitybuilders.com/ask">find your first lesson</a> · <a href="https://www.aicitybuilders.com/guide">free learning guides</a> · Business: <a href="mailto:jay@connexionai.kr">jay@connexionai.kr</a></sub>
 
 <br/>
-<p align="center"><sub><b>CONNECT AI LAB</b> &nbsp;·&nbsp; AI MENTOR JAY &nbsp;·&nbsp; LIVE IN BOTH WORLDS &nbsp;·&nbsp; Love Reinforcement Learning</sub></p>
+<p align="center"><sub><b>CONNECT AI LAB</b> &nbsp;·&nbsp; AI MENTOR JAY &nbsp;·&nbsp; AI 비즈니스를 배우는 가장 멋진 방법 &nbsp;·&nbsp; Love Reinforcement Learning</sub></p>
