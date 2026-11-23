@@ -3,7 +3,7 @@
   <img src="./assets/svg/boot_light.svg" width="100%" alt="> booting CONNECT AI LAB ... > loading AI MENTOR JAY > CEO of AI native companies > The most beautiful way to learn AI business" />
 </picture>
 
-<a href="https://www.youtube.com/@CONNECT-AI-LAB"><img src="./assets/hero_1123.webp" width="100%" alt="CONNECT AI LAB, AI MENTOR JAY: AI 비즈니스를 배우는 가장 멋진 방법, 모두를 위한 AI 교육" /></a>
+<a href="https://www.youtube.com/@CONNECT-AI-LAB"><img src="./assets/hero_motion.webp" width="100%" alt="CONNECT AI LAB, AI MENTOR JAY: AI 비즈니스를 배우는 가장 멋진 방법, 모두를 위한 AI 교육" /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/identity_dark.svg" />
