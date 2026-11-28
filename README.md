@@ -22,6 +22,7 @@
 </p>
 
 <p align="center">
+  <a href="https://eldobrowser.com"><img src="https://img.shields.io/badge/ELDO-The_Browser_for_AI_Agents-D6892A?style=for-the-badge&labelColor=07080A" alt="ELDO Browser" /></a>
   <a href="https://www.youtube.com/@CONNECT-AI-LAB"><img src="https://img.shields.io/badge/YouTube-CONNECT%20AI%20LAB-07080A?style=for-the-badge&logo=youtube&logoColor=D6892A&labelColor=07080A" alt="YouTube CONNECT AI LAB" /></a>
   <a href="https://www.aicitybuilders.com"><img src="https://img.shields.io/badge/AI%20CITY%20BUILDERS-aicitybuilders.com-A8661A?style=for-the-badge&labelColor=07080A" alt="AI CITY BUILDERS" /></a>
   <a href="https://www.instagram.com/aimentorjay"><img src="https://img.shields.io/badge/Instagram-aimentorjay-07080A?style=for-the-badge&logo=instagram&logoColor=D6892A&labelColor=07080A" alt="Instagram aimentorjay" /></a>
@@ -155,7 +156,9 @@
 </table>
 
 <table>
-<tr><td width="34%"><sub><a href="https://github.com/wonseokjung/connect-ai"><b>connect-ai</b></a> <img src="https://img.shields.io/github/stars/wonseokjung/connect-ai?style=flat-square&label=%E2%98%85&labelColor=07080A&color=D6892A" alt="stars" /></sub></td><td><sub>100% 로컬 AI 코딩 에이전트. Antigravity, VS Code, Cursor에서 오프라인으로 동작합니다. Ollama 기반.</sub></td></tr>
+<tr><td width="34%"><sub><a href="https://eldobrowser.com"><b>ELDO Browser</b></a> · <a href="https://github.com/wonseokjung/eldo"><b>eldo</b></a> <img src="https://img.shields.io/github/stars/wonseokjung/eldo?style=flat-square&label=%E2%98%85&labelColor=07080A&color=D6892A" alt="stars" /></sub></td><td><sub><b>The Browser for AI Agents</b> (macOS Apple 공증 · Windows 무료) &amp; <b>14명 오픈소스 AI 직원</b> 통합 허브 · <code>npx github:wonseokjung/eldo</code></sub></td></tr>
+<tr><td><sub><a href="https://github.com/wonseokjung/connect-ai-autonomous-company"><b>connect-ai-autonomous-company</b></a></sub></td><td><sub>AI 자율 회사 본사(CONNECT AI HQ) · 14명 AI 직원: <a href="https://github.com/wonseokjung/connect-ai-developer">개발</a> · <a href="https://github.com/wonseokjung/connect-ai-accountant">세무회계</a> · <a href="https://github.com/wonseokjung/connect-ai-writer">글쓰기</a> · <a href="https://github.com/wonseokjung/connect-ai-image">이미지</a> · <a href="https://github.com/wonseokjung/connect-ai-slides-web">발표자료</a> · <a href="https://github.com/wonseokjung/connect-ai-three">3D웹</a> · <a href="https://github.com/wonseokjung/connect-ai-motion">모션</a> · <a href="https://github.com/wonseokjung/connect-ai-xr">XR</a> · <a href="https://github.com/wonseokjung/connect-ai-product-photo">상품사진</a> · <a href="https://github.com/wonseokjung/connect-ai-localizer">번역</a></sub></td></tr>
+<tr><td><sub><a href="https://github.com/wonseokjung/connect-ai"><b>connect-ai</b></a> <img src="https://img.shields.io/github/stars/wonseokjung/connect-ai?style=flat-square&label=%E2%98%85&labelColor=07080A&color=D6892A" alt="stars" /></sub></td><td><sub>100% 로컬 AI 코딩 에이전트. Antigravity, VS Code, Cursor에서 오프라인으로 동작합니다. Ollama 기반.</sub></td></tr>
 <tr><td><sub><a href="https://github.com/wonseokjung/connect-tycoon"><b>connect-tycoon</b></a></sub></td><td><sub>시뮬레이터로 기업 의사결정 모델을 학습시키는 오픈소스 강화학습 게임 · JEV · PPO · Human-in-the-loop</sub></td></tr>
 <tr><td><sub><a href="https://github.com/wonseokjung/aicb-colab"><b>aicb-colab</b></a></sub></td><td><sub>AI CITY BUILDERS 실습 코랩 노트북. 코랩에서 바로 열립니다.</sub></td></tr>
 <tr><td><sub><a href="https://huggingface.co/models?search=connectailab"><b>connectailab models</b></a></sub></td><td><sub>허깅페이스에 공개된 connectailab 강화학습 모델</sub></td></tr>
